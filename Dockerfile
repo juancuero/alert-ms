@@ -3,7 +3,7 @@ WORKDIR /app
 
 COPY . .
 
-RUN ./gradlew :bootloader:bootJar -x test
+RUN gradle :bootloader:bootJar -x test
 
 FROM openjdk:17-jdk-slim
 WORKDIR /app
