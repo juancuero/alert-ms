@@ -151,7 +151,7 @@ Esto realiza automáticamente el empaquetado del proyecto con Gradle y lanza los
 
 ![F4](https://raw.githubusercontent.com/juancuero/alert-ms/refs/heads/main/screens/docker.png)
 
-![F5](https://raw.githubusercontent.com/juancuero/alert-ms/refs/heads/main/screens/-logs.png)
+![F5](https://raw.githubusercontent.com/juancuero/alert-ms/refs/heads/main/screens/docker-logs.png)
 
 ---
 
