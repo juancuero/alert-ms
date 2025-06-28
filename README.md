@@ -94,16 +94,16 @@ Respuesta:
 
 ```json
 {
-    "id": "685f2e6dc208fd3acfb4bc89",
-    "user": "juan.cuero",
-    "condition": "CRITICAL_RISK",
-    "notificationChannel": "EMAIL",
-    "status": "ACTIVE",
-    "createdAt": "2025-06-27T23:51:09.205259361"
+  "id": "685f2e6dc208fd3acfb4bc89",
+  "user": "juan.cuero",
+  "condition": "CRITICAL_RISK",
+  "notificationChannel": "EMAIL",
+  "status": "ACTIVE",
+  "createdAt": "2025-06-27T23:51:09.205259361"
 }
 ```
 
-![F1](https://raw.githubusercontent.com/juancuero/alert-ms/screens/create.png)
+![F1](https://raw.githubusercontent.com/juancuero/alert-ms/refs/heads/main/screens/create.png)
 
 Ejemplo de listar alertas (`GET /alerts`):
 
@@ -122,7 +122,7 @@ Respuesta:
 ]
 ```
 
-![F2](https://raw.githubusercontent.com/juancuero/alert-ms/screens/list.png)
+![F2](https://raw.githubusercontent.com/juancuero/alert-ms/refs/heads/main/screens/list.png)
 ---
 
 
@@ -135,7 +135,7 @@ Respuesta:
 - Los reportes individuales estarán en:  
   `module-name/build/reports/jacoco/test/html/index.html`
 
-![F3](https://raw.githubusercontent.com/juancuero/alert-ms/screens/tests.png)
+![F3](https://raw.githubusercontent.com/juancuero/alert-ms/refs/heads/main/screens/tests.png)
 
 
 ## 🐳 Ejecutar con Docker
